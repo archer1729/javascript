@@ -20,10 +20,10 @@
 
 // lets try re-assigning the values for variables and see the out put.
 //Even, if u re-assign the value ,it wont change.
- //const accountId=2024302;
+ const accountId=2024302;
  // above code of line shows error.
 
- //let accountEmail="rinkujagtap56@gmail.com";
+ let accountEmail="rinkujagtap56@gmail.com";
 // above code of line shows syntax error.
 
 // if u don't assign value to var it will show as "undefined" .
@@ -32,7 +32,7 @@
  var accPassword=""
  // when we declare using var then assigned recent value is printed.
 
-
+//this is how you print in js.
  console.log(accPassword);
  console.log(accountId);
  console.log(accountEmail);
